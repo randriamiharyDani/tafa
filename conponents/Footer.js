@@ -112,7 +112,7 @@ const style = StyleSheet.create({
         borderRadius :70,
         height :200,
         width : 380,
-        backgroundColor: 'grey',
+        backgroundColor: 'grey',kjgjjgj
         // opacity : 0.5,
         padding: 10,
         borderRadius: 10,
